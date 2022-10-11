@@ -21,7 +21,8 @@ Done!
 
 => https://t.me/ciscoforiran
 -----------------------------------------------------------------------------------------------------
-https://user-images.githubusercontent.com/12384263/140075673-aa31959b-0979-4abc-9fea-dd89a73009d7.png
+![140075673-aa31959b-0979-4abc-9fea-dd89a73009d7](https://user-images.githubusercontent.com/46374084/195152489-1f3f8772-cfa0-4459-bd50-763fc20ddae6.png)
+
 
 sudo apt install iptables
 

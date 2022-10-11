@@ -11,7 +11,7 @@ apt install curl
 curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/ciscoforiran-installer.sh && chmod +x ciscoforiran-installer.sh
 
 4- 
-./ocserv-install.sh
+./ciscoforiran-installer.sh
 
 Done!
 

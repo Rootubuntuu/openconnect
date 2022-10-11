@@ -10,3 +10,8 @@
 4- ./ocserv-install.sh
 
 Done!
+
+
+# download all Device software
+
+=> https://t.me/ciscoforiran

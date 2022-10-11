@@ -1,4 +1,4 @@
-# cisco
+# cisco installer | Ubuntu 18.4
 
 
 1- apt-get update -y && apt-get upgrade -y

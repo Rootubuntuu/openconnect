@@ -1,7 +1,12 @@
 # cisco
-cmd installer ubuntu 18.4
 
-curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/ciscoforiran-installer.sh && chmod +x ocserv-install.sh
 
-./ocserv-install.sh
+1- apt-get update -y && apt-get upgrade -y
 
+2- apt install curl
+
+3- curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/ciscoforiran-installer.sh && chmod +x ocserv-install.sh
+
+4- ./ocserv-install.sh
+
+Done!

@@ -8,10 +8,10 @@ apt-get update -y && apt-get upgrade -y
 apt install curl
 
 3- 
-curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/ciscoforiran-installer.sh && chmod +x ciscoforiran-installer.sh
+curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/cisco-installer.sh && chmod +x cisco-installer.sh
 
 4- 
-./ciscoforiran-installer.sh
+./cisco-installer.sh
 
 Done!
 

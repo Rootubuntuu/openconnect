@@ -15,7 +15,7 @@ apt install curl
 3- Download required services
 
 ```
-curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/cisco-installer.sh && chmod +x cisco-installer.sh
+curl -O https://raw.githubusercontent.com/Rootubuntuu/openconnect/main/openconnect-installer.sh && chmod +x openconnect-installer.sh
 ```
 4- Installation
 

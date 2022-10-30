@@ -20,5 +20,5 @@ curl -O https://raw.githubusercontent.com/Rootubuntuu/openconnect/main/openconne
 4- Installation
 
 ```
-./Rootubuntuu-installer.sh
+./openconnect-installer.sh
 ```

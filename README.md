@@ -21,5 +21,4 @@ curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/cisco-installe
 
 ```
 ./cisco-installer.sh
-
 ```

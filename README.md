@@ -1,19 +1,24 @@
-# cisco installer | Ubuntu 18.4
+# OpenConnect
+The environment used in the tutorial ubuntu 18.4 & 20.4
+Install with one click
 
+1- Update operating system packages 
 
-1- 
 ```
 apt-get update -y && apt-get upgrade -y
 ```
-2- 
+2- install curl 
+
 ```
 apt install curl
 ```
-3- 
+3- Download required services
+
 ```
 curl -O https://raw.githubusercontent.com/ciscoiranian/cisco/main/cisco-installer.sh && chmod +x cisco-installer.sh
 ```
-4- 
+4- Installation
+
 ```
 ./cisco-installer.sh
 

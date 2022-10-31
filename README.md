@@ -22,3 +22,21 @@ curl -O https://raw.githubusercontent.com/Rootubuntuu/openconnect/main/openconne
 ```
 ./openconnect-installer.sh
 ```
+______________________________________________________________________________________________________________________________________________
+# Limit the number of identical clients
+
+```
+/etc/ocserv/ocserv.conf
+```
+
+#After each change in the ocserv.conf file, run the following commands to apply
+
+STOP
+```
+service ocserv stop
+```
+
+START
+```
+service ocserv start
+```

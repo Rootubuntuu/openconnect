@@ -26,7 +26,7 @@ ________________________________________________________________________________
 # Limit the number of identical clients
 
 ```
-/etc/ocserv/ocserv.conf
+nano /etc/ocserv/ocserv.conf
 ```
 
 #After each change in the ocserv.conf file, run the following commands to apply

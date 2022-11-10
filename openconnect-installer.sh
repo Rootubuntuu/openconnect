@@ -12,7 +12,7 @@ mkdir certificates
 cd certificates
 
 cat << EOF > ca.tmpl
-cn = "VPN CA"
+cn = "RootUbuntu US"
 organization = "RootUbuntu"
 serial = 1
 expiration_days = 3650
@@ -27,7 +27,7 @@ certtool --generate-self-signed --load-privkey ca-key.pem --template ca.tmpl --o
 
 cat << EOF > server.tmpl
 #yourIP
-cn=$ip
+cn="$ip"
 organization = "RootUbuntu"
 expiration_days = 3650
 signing_key
@@ -115,7 +115,7 @@ if [[ "$EUID" -ne 0 ]]; then
 fi
 
 cd ~
-echo '🅾🅿🅴🅽🅲🅾🅽🅽🅴🅲🆃'
+echo 'Until the day you filter and protect, Ubuntu root will not let people stay without internet'
 echo 'POWER BY https://t.me/RootUbuntu'
 
 PS3='Please enter your choice: '

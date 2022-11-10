@@ -40,3 +40,22 @@ START
 ```
 service ocserv start
 ```
+
+______________________________________________________________________________________________________________________________________________
+# Configuration for MacBook and iPhone
+
+Install Apache or Nginx: 
+```
+sudo apt-get install apache2
+```
+OR
+
+```
+sudo apt-get install nginx
+```
+
+CMD COPY CA-CERT.PEM
+
+```
+sudo cp /certificates/ca-cert.pem /var/www/html
+```
